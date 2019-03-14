@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/ES6/copyArr.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/exportDes.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/exportFrom.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testArrowFunction.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testClass.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testExtends.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testFor.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testGenarator.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testMap.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testObj.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testPromise.js" />
+        <item url="file://$PROJECT_DIR$/dist/ES6/testString.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/ES6/copyArr.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/exportDes.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/exportFrom.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testArrowFunction.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testClass.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testExtends.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testFor.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testGenarator.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testMap.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testObj.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testPromise.js" />
+      <root url="file://$PROJECT_DIR$/dist/ES6/testString.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
